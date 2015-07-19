@@ -1,0 +1,13 @@
+TOffsetList v1.0
+================
+
+Written by Dan
+Released: 11/04/2005
+
+TOffsetList is a class that stores NES offsets (requires TiNESImage in your
+library path, or the same directory)
+
+Included:
+=========
+
+TOffsetList

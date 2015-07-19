@@ -1,0 +1,15 @@
+TByteList v1.0
+==============
+
+Written by Dan
+Released: 11/04/2005
+
+TByteList is a rather simple class I wrote that acts as an object orientated
+version of a byte array. Anyone with half a brain could probably write
+something similar (or just use normal byte arrays), but it's provided here
+to allow my programs source code to actually compile.
+
+Included:
+=========
+
+TByteList

@@ -1,0 +1,17 @@
+TROMImage v1.0
+==============
+
+Written by Dan
+Released: 11/04/2005
+
+This ZIP contains classes that I use for my ROM hacking projects. Feel free to
+use them how you feel fit.
+
+Included:
+=========
+
+TROMImage ~ A class that implements the bare bones functionality of ROMs.
+TiNESImage ~ A descendant of TROMImage, this class that implements features
+specific features for NES ROMs.
+TGBImage ~ A descendant of TROMImage, this class implements bare bones
+functionality for GB ROMs. This class is incomplete.

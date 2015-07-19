@@ -1,0 +1,15 @@
+TMemINIHexFile v1.0
+==============
+
+Written by Dan
+Released: 11/04/2005
+
+This ZIP contains a descendant of the TMemINIFile that adds a new method
+ReadHexValue, that loads hexadecimal values into integers. I also think
+I may have overloaded one or two of the original reading methods to
+allow you to not specify a default value.
+
+Included:
+=========
+
+TMemINIHexFile
